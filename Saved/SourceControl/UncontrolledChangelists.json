@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/c0bbl/OneDrive/Documents/versionControlGame/Content/settings/userSettings.uasset",
+				"C:/Users/c0bbl/OneDrive/Documents/versionControlGame/Content/UI/MainMenu.uasset",
 				"C:/GameProject/gameProjectV1/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/GameProject/gameProjectV1/Content/MainMenu.umap",
 				"C:/GameProject/gameProjectV1/Content/playLevel_HLOD0_Instancing.uasset",
